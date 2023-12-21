@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Solution Challenge**
  
- 🌱 I’m currently learning **Angular, DSA, TypeScript**
+ 🌱 I’m currently learning **React, DSA, TypeScript**
 
 💬 Ask me about **HTML, CSS, JavaScript, Designing & Art ... or anything [here](https://github.com/arshiwang/arshiwang/issues)**
 
