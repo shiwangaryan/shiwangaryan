@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=arshiwang.arshiwang" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shiwangaryan.shiwangaryan" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shiwang+Aryan!;" />
@@ -37,7 +37,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,flutter,dart" />
     <img src="https://skillicons.dev/icons?i=vscode,github,mysql,ps,pr,py" /><br>
 </div>
 
