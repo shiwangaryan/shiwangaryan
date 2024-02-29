@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Solution Challenge**
+ 🔭 I’m currently working on **Second Brain App**
  
  🌱 I’m currently learning **Flutter, DSA, Firebase**
 
-💬 Ask me about **HTML, CSS, JavaScript, Dart Designing & Art ... or anything [here](https://github.com/arshiwang/arshiwang/issues)**
+💬 Ask me about **HTML, CSS, JavaScript, Dart, Designing & Art ... or anything [here](https://github.com/arshiwang/arshiwang/issues)**
 
 ⚡ Fun fact **Earth without 'art' is just Eh**
 
